@@ -4,5 +4,6 @@
 
 ## DB
 
-- [RDBMS & MYSQL](/contents/2022-09/2022-09-26.md)
+- [Database](/contents/2022-09/2022-09-28.md)
+- [MYSQL](/contents/2022-09/2022-09-26.md)
 - [PL/SQL](/contents/2022-09/2022-09-27.md)
