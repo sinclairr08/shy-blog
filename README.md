@@ -12,6 +12,7 @@
 - [PL/SQL](/contents/2022-09/2022-09-27.md)
 - [T-SQL](/contents/2022-09/2022-09-29.md)
 - [SSIS](/contents/2022-09/2022-09-30.md)
+- [N + 1 Query Problem](/contents/2022-10/2022-10-01.md)
 
 ## Coding Test
 
