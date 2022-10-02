@@ -1,6 +1,5 @@
 # Study List
 
-- Sharding
 - ER Diagram
 - Index on multiple columns
 - DMA
