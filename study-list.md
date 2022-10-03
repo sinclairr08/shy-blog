@@ -1,9 +1,9 @@
 # Study List
 
+- TLS / SSL
 - ER Diagram
-- Index on multiple columns
+- SQL 튜닝
 - DMA
-- VPN vs TLS
 - DNS with Details
 - HTTP Message Detail
 - Desgin pattern
@@ -11,3 +11,4 @@
 - Lock and fairness
 - Cache (Directed-mapped / set-associative)
 - Public key + Private key crypto
+- VPN

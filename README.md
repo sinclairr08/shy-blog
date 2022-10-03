@@ -5,7 +5,8 @@
 ## DB
 
 - [Database](/contents/2022-09/2022-09-28.md)
-- [DB Index](/previous/2022-07-26.md)
+- [DB Index-1](/previous/2022-07-26.md)
+- [DB Index-2](/contents/2022-10/2022-10-03.md)
 - [DB Normalization](/previous/2022-07-07.md)
 - [In-memory DB](/previous/2022-07-23.md)
 - [MYSQL](/contents/2022-09/2022-09-26.md)
@@ -13,6 +14,7 @@
 - [T-SQL](/contents/2022-09/2022-09-29.md)
 - [SSIS](/contents/2022-09/2022-09-30.md)
 - [N + 1 Query Problem](/contents/2022-10/2022-10-01.md)
+- [Sharding](/contents/2022-10/2022-10-02.md)
 
 ## Coding Test
 
