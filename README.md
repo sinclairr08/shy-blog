@@ -15,6 +15,7 @@
 - [SSIS](/contents/2022-09/2022-09-30.md)
 - [N + 1 Query Problem](/contents/2022-10/2022-10-01.md)
 - [Sharding](/contents/2022-10/2022-10-02.md)
+- [CAP theorem](/contents/2022-10/2022-10-04.md)
 
 ## Coding Test
 

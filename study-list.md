@@ -1,6 +1,5 @@
 # Study List
 
-- TLS / SSL
 - ER Diagram
 - SQL 튜닝
 - DMA
@@ -10,5 +9,6 @@
 - Authentication
 - Lock and fairness
 - Cache (Directed-mapped / set-associative)
+- TLS / SSL
 - Public key + Private key crypto
 - VPN
