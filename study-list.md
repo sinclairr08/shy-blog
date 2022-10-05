@@ -1,6 +1,5 @@
 # Study List
 
-- ER Diagram
 - SQL 튜닝
 - DMA
 - DNS with Details

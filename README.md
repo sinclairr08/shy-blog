@@ -16,6 +16,7 @@
 - [N + 1 Query Problem](/contents/2022-10/2022-10-01.md)
 - [Sharding](/contents/2022-10/2022-10-02.md)
 - [CAP theorem](/contents/2022-10/2022-10-04.md)
+- [ER Model - 1](/contents/2022-10/2022-10-05.md)
 
 ## Coding Test
 
