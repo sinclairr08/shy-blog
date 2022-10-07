@@ -18,6 +18,7 @@
 - [CAP theorem](/contents/2022-10/2022-10-04.md)
 - [ER Model - 1](/contents/2022-10/2022-10-05.md)
 - [ER Model - 2](/contents/2022-10/2022-10-06.md)
+- [ER Model - 3](/contents/2022-10/2022-10-07.md)
 
 ## Coding Test
 
