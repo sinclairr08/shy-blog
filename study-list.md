@@ -1,6 +1,7 @@
 # Study List
 
-- SQL 튜닝
+- SQL IN vs EXISTS
+- Transaction isolation level
 - DMA
 - DNS with Details
 - HTTP Message Detail
