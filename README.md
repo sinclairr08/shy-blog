@@ -18,6 +18,7 @@
 - [CAP theorem](/contents/2022-10/2022-10-04.md)
 - [ER Model](/contents/2022-10/2022-10-08.md)
 - [SQL Tuning](/contents/2022-10/2022-10-09.md)
+- [Transaction](/contents/2022-10/2022-10-10.md)
 
 ## Coding Test
 

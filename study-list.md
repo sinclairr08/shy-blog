@@ -4,6 +4,7 @@
 - Transaction isolation level
 - DMA
 - DNS with Details
+- GSLB
 - HTTP Message Detail
 - Desgin pattern
 - Authentication
