@@ -1,7 +1,5 @@
 # Study List
 
-- SQL IN vs EXISTS
-- Transaction isolation level
 - DMA
 - DNS with Details
 - GSLB

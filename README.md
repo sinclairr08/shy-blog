@@ -19,6 +19,7 @@
 - [ER Model](/contents/2022-10/2022-10-08.md)
 - [SQL Tuning](/contents/2022-10/2022-10-09.md)
 - [Transaction](/contents/2022-10/2022-10-10.md)
+- [SQL IN vs EXISTS](/contents/2022-10/2022-10-11.md)
 
 ## Coding Test
 
