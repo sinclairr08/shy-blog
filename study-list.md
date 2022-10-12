@@ -7,7 +7,7 @@
 - Desgin pattern
 - Authentication
 - Lock and fairness
-- Cache (Directed-mapped / set-associative)
 - TLS / SSL
 - Public key + Private key crypto
 - VPN
+- SRAM vs DRAM

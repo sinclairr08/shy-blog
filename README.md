@@ -73,3 +73,7 @@
 - [Memory Management](/previous/2022-07-13.md)
 - [Deadlock](/previous/2022-07-20.md)
 - [Process Synchronization](/previous/2022-07-30.md)
+
+## Computer Architecture & System
+
+- [Cache](/contents/2022-10/2022-10-12.md)
