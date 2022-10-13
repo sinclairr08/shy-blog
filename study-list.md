@@ -1,6 +1,5 @@
 # Study List
 
-- DMA
 - DNS with Details
 - GSLB
 - HTTP Message Detail

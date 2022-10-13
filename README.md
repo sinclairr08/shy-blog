@@ -77,3 +77,4 @@
 ## Computer Architecture & System
 
 - [Cache](/contents/2022-10/2022-10-12.md)
+- [DMA](/contents/2022-10/2022-10-13.md)
