@@ -78,3 +78,7 @@
 
 - [Cache](/contents/2022-10/2022-10-12.md)
 - [DMA](/contents/2022-10/2022-10-13.md)
+
+## Python
+
+- [pip](/contents/2022-10/2022-10-14.md)

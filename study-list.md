@@ -10,3 +10,7 @@
 - Public key + Private key crypto
 - VPN
 - SRAM vs DRAM
+- AWS
+- Anaconda
+- Python - type hinting
+- Python - pyc
