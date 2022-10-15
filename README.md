@@ -20,6 +20,7 @@
 - [SQL Tuning](/contents/2022-10/2022-10-09.md)
 - [Transaction](/contents/2022-10/2022-10-10.md)
 - [SQL IN vs EXISTS](/contents/2022-10/2022-10-11.md)
+- [JOIN (SQL)](/contents/2022-10/2022-10-15.md)
 
 ## Coding Test
 
@@ -81,4 +82,4 @@
 
 ## Python
 
-- [pip](/contents/2022-10/2022-10-14.md)
+- [pip & virtualenv](/contents/2022-10/2022-10-14.md)

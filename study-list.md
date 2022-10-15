@@ -14,3 +14,4 @@
 - Anaconda
 - Python - type hinting
 - Python - pyc
+- Hash join or sort-merge join
