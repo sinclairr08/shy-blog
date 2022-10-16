@@ -7,7 +7,7 @@
 - [Database](/contents/2022-09/2022-09-28.md)
 - [DB Index-1](/contents/previous/2022-07-26.md)
 - [DB Index-2](/contents/2022-10/2022-10-03.md)
-- [DB Normalization](/contents/previous/2022-07-07.md)
+- [DB Normalization](/contents/2022-10/2022-10-16.md)
 - [In-memory DB](/contents/previous/2022-07-23.md)
 - [MYSQL](/contents/2022-09/2022-09-26.md)
 - [PL/SQL](/contents/2022-09/2022-09-27.md)

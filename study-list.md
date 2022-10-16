@@ -1,13 +1,17 @@
 # Study List
 
-- DNS with Details
+- Remaster old materials
+- Relational database
+- Decomposition
+- DB Failure & Recovery
+- DNS
 - GSLB
 - HTTP Message Detail
 - Desgin pattern
 - Authentication
 - Lock and fairness
 - TLS / SSL
-- Public key + Private key crypto
+- Public key / Private key crypto
 - VPN
 - SRAM vs DRAM
 - AWS
