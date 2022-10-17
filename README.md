@@ -21,6 +21,7 @@
 - [Transaction](/contents/2022-10/2022-10-10.md)
 - [SQL IN vs EXISTS](/contents/2022-10/2022-10-11.md)
 - [JOIN (SQL)](/contents/2022-10/2022-10-15.md)
+- [Two-phase Locking](/contents/2022-10/2022-10-17.md)
 
 ## Coding Test
 
