@@ -22,4 +22,3 @@
 - CI / CD, 자동화 등등
 - Chain row fix
 - DB vaccum 작업
-- DB 장애복구, 백업, mysqldump
