@@ -1,9 +1,13 @@
 # Study List
 
-- Remaster old materials
-- Relational database
-- Decomposition
-- DB Failure & Recovery
+- DB의 저장공간
+- Join과 index 간의 관계
+- Remaster
+  - MySQL
+  - Index
+  - Relational database
+  - Decomposition
+  - DB lock, isolation, undo / redo, ...
 - DNS
 - GSLB
 - HTTP Message Detail

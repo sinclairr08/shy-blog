@@ -24,6 +24,7 @@
 - [Two-phase Locking](/contents/2022-10/2022-10-17.md)
 - [Two-phase Commit](/contents/2022-10/2022-10-18.md)
 - [DB Failure & Recovery](/contents/2022-10/2022-10-19.md)
+- [MVCC](/contents/2022-10/2022-10-20.md)
 
 ## Coding Test
 
