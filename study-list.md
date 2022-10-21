@@ -20,7 +20,7 @@
 - SRAM vs DRAM
 - AWS
 - Anaconda
-- Python - type hinting
+- Python - type checking
 - Python - pyc
 - Hash join or sort-merge join
 - CI / CD, 자동화 등등
