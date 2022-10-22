@@ -20,9 +20,11 @@
 - SRAM vs DRAM
 - AWS
 - Anaconda
-- Python - type checking
-- Python - pyc
 - Hash join or sort-merge join
 - CI / CD, 자동화 등등
 - Chain row fix
 - DB vaccum 작업
+- Type System / Duck Typing
+- Python
+  - pyc
+  - generator
