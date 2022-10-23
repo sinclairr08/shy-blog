@@ -25,6 +25,7 @@
 - [Two-phase Commit](/contents/2022-10/2022-10-18.md)
 - [DB Failure & Recovery](/contents/2022-10/2022-10-19.md)
 - [MVCC](/contents/2022-10/2022-10-20.md)
+- [Data Storage Structure](/contents/2022-10/2022-10-23.md)
 
 ## Coding Test
 

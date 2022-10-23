@@ -1,13 +1,16 @@
 # Study List
 
-- DB의 저장공간
-- Join과 index 간의 관계
-- Remaster
-  - MySQL
-  - Index
-  - Relational database
-  - Decomposition
-  - DB lock, isolation, undo / redo, ...
+- DB
+  - Join과 index 간의 관계
+  - Chain row fix
+  - DB vaccum 작업
+  - Hash join
+  - Sort-merge join
+  - Structure of partition
+  - Structure of block
+- Python
+  - pyc
+  - generator
 - DNS
 - GSLB
 - HTTP Message Detail
@@ -20,11 +23,13 @@
 - SRAM vs DRAM
 - AWS
 - Anaconda
-- Hash join or sort-merge join
 - CI / CD, 자동화 등등
-- Chain row fix
-- DB vaccum 작업
 - Type System / Duck Typing
-- Python
-  - pyc
-  - generator
+
+## Remaster
+
+- MySQL
+- Index
+- Relational database
+- Decomposition
+- DB lock, isolation, undo / redo, ...
