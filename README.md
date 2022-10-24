@@ -20,12 +20,13 @@
 - [SQL Tuning](/contents/2022-10/2022-10-09.md)
 - [Transaction](/contents/2022-10/2022-10-10.md)
 - [SQL IN vs EXISTS](/contents/2022-10/2022-10-11.md)
-- [JOIN (SQL)](/contents/2022-10/2022-10-15.md)
 - [Two-phase Locking](/contents/2022-10/2022-10-17.md)
 - [Two-phase Commit](/contents/2022-10/2022-10-18.md)
 - [DB Failure & Recovery](/contents/2022-10/2022-10-19.md)
 - [MVCC](/contents/2022-10/2022-10-20.md)
 - [Data Storage Structure](/contents/2022-10/2022-10-23.md)
+- [Join](/contents/2022-10/2022-10-15.md)
+  - [NL Join](/contents/2022-10/2022-10-24.md)
 
 ## Coding Test
 

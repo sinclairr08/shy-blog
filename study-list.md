@@ -8,6 +8,7 @@
   - Sort-merge join
   - Structure of partition
   - Structure of block
+  - SQL Hint
 - Python
   - pyc
   - generator
@@ -25,6 +26,7 @@
 - Anaconda
 - CI / CD, 자동화 등등
 - Type System / Duck Typing
+- Random Access
 
 ## Remaster
 
