@@ -27,6 +27,7 @@
 - [Data Storage Structure](/contents/2022-10/2022-10-23.md)
 - [Join](/contents/2022-10/2022-10-15.md)
   - [NL Join](/contents/2022-10/2022-10-24.md)
+  - [Sort Merge Join](/contents/2022-10/2022-10-25.md)
 
 ## Coding Test
 

@@ -5,7 +5,6 @@
   - Chain row fix
   - DB vaccum 작업
   - Hash join
-  - Sort-merge join
   - Structure of partition
   - Structure of block
   - SQL Hint
@@ -27,11 +26,14 @@
 - CI / CD, 자동화 등등
 - Type System / Duck Typing
 - Random Access
+- Disaster Recovery
 
-## Remaster
+## Remake
 
 - MySQL
 - Index
 - Relational database
 - Decomposition
-- DB lock, isolation, undo / redo, ...
+- DB lock
+- Isolation level 관련 내용 정리
+- Undo 및 Redo 관련 디테일
