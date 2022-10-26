@@ -1,10 +1,8 @@
 # Study List
 
 - DB
-  - Join과 index 간의 관계
   - Chain row fix
   - DB vaccum 작업
-  - Hash join
   - Structure of partition
   - Structure of block
   - SQL Hint
@@ -30,8 +28,9 @@
 
 ## Remake
 
-- MySQL
-- Index
+- MySQL + 문법 추가
+- Index 내용 더 깔끔하게
+- Join 내용 완벽히 정리
 - Relational database
 - Decomposition
 - DB lock
