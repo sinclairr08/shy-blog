@@ -1,8 +1,7 @@
 # Study List
 
 - DB
-  - Chain row fix
-  - DB vaccum 작업
+  - DB vacuum 작업
   - Structure of partition
   - Structure of block
   - SQL Hint
@@ -21,10 +20,13 @@
 - SRAM vs DRAM
 - AWS
 - Anaconda
-- CI / CD, 자동화 등등
+- Jenkins
+- Docker
 - Type System / Duck Typing
 - Random Access
 - Disaster Recovery
+- 개발 환경
+- Github Actions
 
 ## Remake
 
