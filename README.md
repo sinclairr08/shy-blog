@@ -94,6 +94,7 @@
 - [Type Hint](/contents/2022-10/2022-10-21.md)
 - [mypy](/contents/2022-10/2022-10-22.md)
 
-## Else
+## DevOps
 
 - [CI / CD](/contents/2022-10/2022-10-27.md)
+- [SW 개발 환경](/contents/2022-10/2022-10-27.md)
