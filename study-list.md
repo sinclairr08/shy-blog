@@ -5,9 +5,17 @@
   - Structure of partition
   - Structure of block
   - SQL Hint
+  - Data warehouse
+  - Dimension modeling
 - Python
   - pyc
   - generator
+- AWS
+  - RDS
+  - Aurora
+  - Settings
+  - DB 인증
+  - EBS
 - DNS
 - GSLB
 - HTTP Message Detail
@@ -18,7 +26,6 @@
 - Public key / Private key crypto
 - VPN
 - SRAM vs DRAM
-- AWS
 - Anaconda
 - Jenkins
 - Docker

@@ -29,6 +29,7 @@
   - [NL Join](/contents/2022-10/2022-10-24.md)
   - [Sort Merge Join](/contents/2022-10/2022-10-25.md)
   - [Hash Join](/contents/2022-10/2022-10-26.md)
+- [OLTP & OLAP](/contents/2022-10/2022-10-29.md)
 
 ## Coding Test
 
