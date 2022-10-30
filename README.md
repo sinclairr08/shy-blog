@@ -103,3 +103,4 @@
 ## AWS
 
 - [AWS RDS 소개](/contents/2022-10/2022-10-30.md)
+- [AWS Aurora 소개](/contents/2022-10/2022-10-31.md)

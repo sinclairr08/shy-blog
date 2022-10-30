@@ -13,7 +13,7 @@
 - AWS
   - RDS 인증 방법
   - RDS 사용 방법
-  - Aurora
+  - Aurora Serverless
   - Settings
   - DB 인증
   - EBS
@@ -37,6 +37,9 @@
 - Github Actions
 - failover
 - License / GPL
+- Quorum
+- RPO, RTO
+- Copy on write
 
 ## Remake
 
