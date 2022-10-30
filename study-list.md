@@ -11,7 +11,8 @@
   - pyc
   - generator
 - AWS
-  - RDS
+  - RDS 인증 방법
+  - RDS 사용 방법
   - Aurora
   - Settings
   - DB 인증
@@ -34,6 +35,8 @@
 - Disaster Recovery
 - 개발 환경
 - Github Actions
+- failover
+- License / GPL
 
 ## Remake
 
