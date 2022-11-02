@@ -41,7 +41,6 @@
 - failover
 - License / GPL
 - Quorum
-- RPO, RTO
 - Snapshot
 
 ## Remake

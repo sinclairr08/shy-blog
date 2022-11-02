@@ -108,3 +108,4 @@
 ## Else
 
 - [Copy on Write](/contents/2022-11/2022-11-01.md)
+- [RPO, RTO](/contents/2022-11/2022-11-02.md)
