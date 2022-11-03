@@ -41,7 +41,6 @@
 - failover
 - License / GPL
 - Quorum
-- Snapshot
 
 ## Remake
 
