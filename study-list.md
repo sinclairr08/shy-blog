@@ -1,6 +1,7 @@
 # Study List
 
 - DB
+  - SQL, NoSQL
   - DB vacuum 작업
   - Structure of partition
   - Structure of block
@@ -39,8 +40,9 @@
 - 개발 환경
 - Github Actions
 - failover
-- License / GPL
-- Quorum
+- License
+- GPL
+- MIT License
 
 ## Remake
 
