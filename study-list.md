@@ -1,13 +1,15 @@
 # Study List
 
 - DB
-  - SQL, NoSQL
+  - SQL
   - DB vacuum 작업
   - Structure of partition
   - Structure of block
   - SQL Hint
   - Data warehouse
   - Dimension modeling
+  - Scale-in & Scale-out
+  - Column Family DB
 - Python
   - pyc
   - generator
