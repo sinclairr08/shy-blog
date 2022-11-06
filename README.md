@@ -112,3 +112,4 @@
 - [RPO, RTO](/contents/2022-11/2022-11-02.md)
 - [Snapshot](/contents/2022-11/2022-11-03.md)
 - [Quorum](/contents/2022-11/2022-11-04.md)
+- [MIT License](/contents/2022-11/2022-11-06.md)

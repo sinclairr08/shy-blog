@@ -44,7 +44,6 @@
 - failover
 - License
 - GPL
-- MIT License
 
 ## Remake
 
