@@ -29,7 +29,7 @@
   - [NL Join](/contents/2022-10/2022-10-24.md)
   - [Sort Merge Join](/contents/2022-10/2022-10-25.md)
   - [Hash Join](/contents/2022-10/2022-10-26.md)
-- [OLTP & OLAP](/contents/2022-10/2022-10-29.md)
+- [OLTP / OLAP](/contents/2022-10/2022-10-29.md)
 - [NoSQL](/contents/2022-11/2022-11-05.md)
 
 ## Coding Test
@@ -113,3 +113,4 @@
 - [Snapshot](/contents/2022-11/2022-11-03.md)
 - [Quorum](/contents/2022-11/2022-11-04.md)
 - [MIT License](/contents/2022-11/2022-11-06.md)
+- [Scale up / Scale out](/contents/2022-11/2022-11-07.md)

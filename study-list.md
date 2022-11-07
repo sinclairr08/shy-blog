@@ -8,7 +8,6 @@
   - SQL Hint
   - Data warehouse
   - Dimension modeling
-  - Scale-in & Scale-out
   - Column Family DB
 - Python
   - pyc
