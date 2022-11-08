@@ -31,7 +31,6 @@
 - TLS / SSL
 - Public key / Private key crypto
 - VPN
-- SRAM vs DRAM
 - Anaconda
 - Jenkins
 - Docker
