@@ -22,6 +22,7 @@
   - Settings
   - DB 인증
   - EBS
+  - IAM
 - DNS
 - GSLB
 - HTTP Message Detail

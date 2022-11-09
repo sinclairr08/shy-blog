@@ -32,6 +32,10 @@
 - [OLTP / OLAP](/contents/2022-10/2022-10-29.md)
 - [NoSQL](/contents/2022-11/2022-11-05.md)
 
+## AWS 실습
+
+- [프리 티어 계정 만들기](/contents/2022-11/2022-11-09.md)
+
 ## Coding Test
 
 - Arithmetic
@@ -102,7 +106,7 @@
 - [CI / CD](/contents/2022-10/2022-10-27.md)
 - [SW 개발 환경](/contents/2022-10/2022-10-27.md)
 
-## AWS
+## AWS 소개
 
 - [AWS RDS 소개](/contents/2022-10/2022-10-30.md)
 - [AWS Aurora 소개](/contents/2022-10/2022-10-31.md)
