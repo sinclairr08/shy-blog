@@ -13,16 +13,7 @@
   - pyc
   - generator
 - AWS
-  - RDS 인증 방법
-  - RDS 사용 방법
-  - Aurora Serverless
-  - Lambda
-  - EC2
-  - DynamoDB
-  - Settings
-  - DB 인증
-  - EBS
-  - IAM
+  - 실습 진행
 - DNS
 - GSLB
 - HTTP Message Detail
