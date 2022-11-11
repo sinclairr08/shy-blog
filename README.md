@@ -36,6 +36,7 @@
 
 - [프리 티어 계정 생성](/contents/2022-11/2022-11-09.md)
 - [Lambda 시작](/contents/2022-11/2022-11-10.md)
+- [DynamoDB 시작](/contents/2022-11/2022-11-11.md)
 
 ## Coding Test
 
