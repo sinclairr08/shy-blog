@@ -38,6 +38,7 @@
 - [Lambda 시작](/contents/2022-11/2022-11-10.md)
 - [DynamoDB 시작](/contents/2022-11/2022-11-11.md)
 - [S3 시작](/contents/2022-11/2022-11-12.md)
+- [DynamoDB를 Unity에서 사용](/contents/2022-11/2022-11-13.md)
 
 ## Coding Test
 
