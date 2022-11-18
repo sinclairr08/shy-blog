@@ -40,8 +40,9 @@
 - [S3 시작](/contents/2022-11/2022-11-12.md)
 - [DynamoDB를 Unity에서 사용](/contents/2022-11/2022-11-13.md)
 - [EC2 시작](/contents/2022-11/2022-11-14.md)
-- [AWS 실습: EC2를 SSH로 연결](/contents/2022-11/2022-11-16.md)
-- [AWS 실습: RDS 시작](/contents/2022-11/2022-11-17.md)
+- [EC2를 SSH로 연결](/contents/2022-11/2022-11-16.md)
+- [RDS 시작](/contents/2022-11/2022-11-17.md)
+- [EC2와 RDS 연결](/contents/2022-11/2022-11-18.md)
 
 ## Coding Test
 
