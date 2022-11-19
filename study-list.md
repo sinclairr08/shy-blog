@@ -12,8 +12,6 @@
 - Python
   - pyc
   - generator
-- AWS
-  - 실습 진행
 - DNS
 - GSLB
 - HTTP Message Detail
@@ -29,11 +27,11 @@
 - Type System / Duck Typing
 - Random Access
 - Disaster Recovery
-- 개발 환경
-- Github Actions
 - failover
 - License
 - GPL
+- AWS 실습
+- Java Spring
 
 ## Remake
 

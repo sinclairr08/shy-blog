@@ -96,6 +96,7 @@
 - [Memory Management](/contents/previous/2022-07-13.md)
 - [Deadlock](/contents/previous/2022-07-20.md)
 - [Process Synchronization](/contents/previous/2022-07-30.md)
+- [RPC](/contents/2022-11/2022-11-19.md)
 
 ## Computer Architecture & System
 
