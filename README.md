@@ -31,6 +31,7 @@
   - [Hash Join](/contents/2022-10/2022-10-26.md)
 - [OLTP / OLAP](/contents/2022-10/2022-10-29.md)
 - [NoSQL](/contents/2022-11/2022-11-05.md)
+- [ORM / JPA](/contents/2022-11/2022-11-20.md)
 
 ## AWS 실습
 
