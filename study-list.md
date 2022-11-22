@@ -3,7 +3,6 @@
 - DB
   - SQL
   - DB vacuum 작업
-  - Structure of partition
   - Structure of block
   - SQL Hint
   - Data warehouse
@@ -26,7 +25,6 @@
 - Docker
 - Type System / Duck Typing
 - Random Access
-- Disaster Recovery
 - failover
 - License
 - GPL
