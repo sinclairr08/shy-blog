@@ -135,3 +135,4 @@
 - [Scale up / Scale out](/contents/2022-11/2022-11-07.md)
 - [SSH](/contents/2022-11/2022-11-15.md)
 - [DAO, DTO, VO](/contents/2022-11/2022-11-22.md)
+- [MVC pattern](/contents/2022-11/2022-11-23.md)
