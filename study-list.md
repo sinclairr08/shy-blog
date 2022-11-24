@@ -1,42 +1,63 @@
 # Study List
 
-- DB
-  - SQL
-  - DB vacuum 작업
-  - Structure of block
-  - SQL Hint
-  - Data warehouse
-  - Dimension modeling
-  - Column Family DB
-- Python
-  - pyc
-  - generator
+## DB
+
+- SQL
+- SQL Injection
+- DB Vacuum
+- Structure of block
+- SQL Hint
+- Data Warehouse
+- Dimension Modeling
+- Column Family DB
+- MySQL Grammar
+- Index Remake
+- Join Remake
+- Relational Database
+- Decomposition
+- Partitioning Remake
+- DB Lock
+- Isolation Level Remake
+- Undo / Redo
+
+## Programming Language
+
+- Type System / Duck Typing
+- Generator
+- Python anaconda
+- Python pyc
+
+## Network
+
 - DNS
 - GSLB
 - HTTP Message Detail
-- Desgin pattern
-- Authentication
-- Lock and fairness
 - TLS / SSL
-- Public key / Private key crypto
 - VPN
-- Anaconda
+
+## SW Engineering
+
+- Desgin Pattern
 - Jenkins
-- Docker
-- Type System / Duck Typing
+
+## OS
+
+- Lock and Fairness
 - Random Access
+
+## ELSE
+
+- Public key / Private key crypto
+- Authentication
+- PBKDF2
+- Docker
 - License
 - GPL
-- AWS 실습
-- Java Spring
 
-## Remake
+## AWS 실습
 
-- MySQL + 문법 추가
-- Index 내용 더 깔끔하게
-- Join 내용 완벽히 정리
-- Relational database
-- Decomposition
-- DB lock
-- Isolation level 관련 내용 정리
-- Undo 및 Redo 관련 디테일
+- AWS와 java spring 연결
+
+## Java Spring
+
+- Java spring으로 백엔드 서버 만들기
