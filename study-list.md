@@ -25,7 +25,6 @@
 - Docker
 - Type System / Duck Typing
 - Random Access
-- failover
 - License
 - GPL
 - AWS 실습
