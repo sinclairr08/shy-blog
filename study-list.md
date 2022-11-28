@@ -49,7 +49,6 @@
 
 ## ELSE
 
-- Public key / Private key crypto
 - Authentication
 - PBKDF2
 - Docker
