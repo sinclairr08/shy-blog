@@ -112,6 +112,10 @@
 - [Type Hint](/contents/2022-10/2022-10-21.md)
 - [mypy](/contents/2022-10/2022-10-22.md)
 
+## Java
+
+- [Java compiler / JVM](/contents/2022-11/2022-11-29.md)
+
 ## DevOps
 
 - [CI / CD](/contents/2022-10/2022-10-27.md)
