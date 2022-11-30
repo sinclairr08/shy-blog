@@ -33,6 +33,7 @@
 - [NoSQL](/contents/2022-11/2022-11-05.md)
 - [ORM / JPA](/contents/2022-11/2022-11-20.md)
 - [DB Key](/contents/2022-11/2022-11-27.md)
+- [SQL Injection](/contents/2022-11/2022-11-30.md)
 
 ## AWS 실습
 

@@ -3,7 +3,6 @@
 ## DB
 
 - SQL
-- SQL Injection
 - DB Vacuum
 - Structure of block
 - SQL Hint
