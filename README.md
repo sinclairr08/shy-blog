@@ -116,6 +116,7 @@
 ## Java
 
 - [Java compiler / JVM](/contents/2022-11/2022-11-29.md)
+- [JIT Compile](/contents/2022-12/2022-12-01.md)
 
 ## DevOps
 

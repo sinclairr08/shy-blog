@@ -25,7 +25,6 @@
 - Generator
 - Python anaconda
 - Python pyc
-- JIT compile
 - Garbage Collection
 
 ## Network
