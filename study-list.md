@@ -4,7 +4,6 @@
 
 - SQL
 - DB Vacuum
-- Structure of block
 - SQL Hint
 - Data Warehouse
 - Dimension Modeling
@@ -18,13 +17,12 @@
 - DB Lock
 - Isolation Level Remake
 - Undo / Redo
+- DB connection pool
 
 ## Programming Language
 
 - Type System / Duck Typing
 - Generator
-- Python anaconda
-- Python pyc
 - Garbage Collection
 
 ## Network
@@ -38,7 +36,6 @@
 ## SW Engineering
 
 - Desgin Pattern
-- Jenkins
 
 ## OS
 
