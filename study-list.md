@@ -3,7 +3,6 @@
 ## DB
 
 - SQL
-- DB Vacuum
 - SQL Hint
 - Data Warehouse
 - Dimension Modeling
@@ -18,10 +17,10 @@
 - Isolation Level Remake
 - Undo / Redo
 - DB connection pool
+- H2 DBMS
 
 ## Programming Language
 
-- Type System / Duck Typing
 - Generator
 - Garbage Collection
 
@@ -29,32 +28,37 @@
 
 - DNS
 - GSLB
-- HTTP Message Detail
-- TLS / SSL
+- HTTP
+- TLS / SSL / HTTPS
 - VPN
 
 ## SW Engineering
 
 - Desgin Pattern
+  - Builder
 
 ## OS
 
-- Lock and Fairness
+- Concurrency control and lock (with fairness)
 - Random Access
 
 ## ELSE
 
 - Authentication
+- OAuth
 - PBKDF2
 - Docker
 - License
 - GPL
+- Shell script grammar
 
 ## AWS 실습
 
 - AWS와 java spring 연결
+- AWS EC2에 elastic IP 부여
 
 ## Java Spring
 
-- lombok
-- Java spring으로 백엔드 서버 만들기
+- Lombok
+- Spring boot로 백엔드 서버 구축
+- JDBC
