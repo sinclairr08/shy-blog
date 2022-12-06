@@ -151,3 +151,4 @@
 - [Template Engine](/contents/2022-12/2022-12-03.md)
 - [Mustache](/contents/2022-12/2022-12-04.md)
 - [Getter / Setter](/contents/2022-12/2022-12-05.md)
+- [Lombok](/contents/2022-12/2022-12-06.md)

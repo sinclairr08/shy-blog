@@ -59,6 +59,5 @@
 
 ## Java Spring
 
-- Lombok
 - Spring boot로 백엔드 서버 구축
 - JDBC
