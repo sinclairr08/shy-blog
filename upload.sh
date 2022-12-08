@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 TODAY="$(date "+%Y-%m-%d")"
 SOURCE_PATH=./pending
