@@ -154,3 +154,4 @@
 - [Getter / Setter](/contents/2022-12/2022-12-05.md)
 - [Lombok](/contents/2022-12/2022-12-06.md)
 - [TIL Shell Script](./contents/2022-12/2022-12-08.md)
+- [MariaDB](./contents/2022-12/2022-12-09.md)
