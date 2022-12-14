@@ -159,3 +159,4 @@
 - [Gradle](./contents/2022-12/2022-12-11.md)
 - [Nginx](./contents/2022-12/2022-12-12.md)
 - [Github Action](./contents/2022-12/2022-12-13.md)
+- [DNS-1](./contents/2022-12/2022-12-14.md)
