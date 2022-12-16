@@ -161,3 +161,4 @@
 - [Github Action](./contents/2022-12/2022-12-13.md)
 - [DNS-1](./contents/2022-12/2022-12-14.md)
 - [DNS-2](./contents/2022-12/2022-12-15.md)
+- [DNS-3](./contents/2022-12/2022-12-16.md)
