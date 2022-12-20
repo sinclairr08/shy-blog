@@ -165,3 +165,4 @@
 - [DNS-4](./contents/2022-12/2022-12-17.md)
 - [Java](./contents/2022-12/2022-12-18.md)
 - [Blue Green Deployment](./contents/2022-12/2022-12-19.md)
+- [AWS Elasic IP](./contents/2022-12/2022-12-20.md)
