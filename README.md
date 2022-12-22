@@ -92,6 +92,7 @@
 - [Transport Layer](/contents/previous/2022-07-08.md)
 - [Network Layer](/contents/previous/2022-07-22.md)
 - [Socket](/contents/previous/2022-08-22.md)
+- [DNS](./contents/2022-12/2022-12-22.md)
 
 ## OS
 
@@ -159,10 +160,6 @@
 - [Gradle](./contents/2022-12/2022-12-11.md)
 - [Nginx](./contents/2022-12/2022-12-12.md)
 - [Github Action](./contents/2022-12/2022-12-13.md)
-- [DNS-1](./contents/2022-12/2022-12-14.md)
-- [DNS-2](./contents/2022-12/2022-12-15.md)
-- [DNS-3](./contents/2022-12/2022-12-16.md)
-- [DNS-4](./contents/2022-12/2022-12-17.md)
 - [Java](./contents/2022-12/2022-12-18.md)
 - [Blue Green Deployment](./contents/2022-12/2022-12-19.md)
 - [AWS Elasic IP](./contents/2022-12/2022-12-20.md)
