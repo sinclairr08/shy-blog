@@ -164,3 +164,4 @@
 - [Blue Green Deployment](./contents/2022-12/2022-12-19.md)
 - [AWS Elasic IP](./contents/2022-12/2022-12-20.md)
 - [MSSQL](./contents/2022-12/2022-12-21.md)
+- [CORS](./contents/2022-12/2022-12-23.md)
