@@ -16,7 +16,7 @@ else
     DATE=$2
 fi
 
-CONTENTS="# $TITLE\n\n## $TITLE 란/이란\n\n## References\n\n1. "
+CONTENTS="# $TITLE\n\n## $TITLE\n\n## References\n\n1. "
 PATH=./pending
 FILENAME=$DATE\;$TITLE.md
 
