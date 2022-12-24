@@ -165,3 +165,4 @@
 - [AWS Elasic IP](./contents/2022-12/2022-12-20.md)
 - [MSSQL](./contents/2022-12/2022-12-21.md)
 - [CORS](./contents/2022-12/2022-12-23.md)
+- [Proxy Server](./contents/2022-12/2022-12-24.md)
