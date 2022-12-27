@@ -168,3 +168,4 @@
 - [Proxy Server](./contents/2022-12/2022-12-24.md)
 - [WAS](./contents/2022-12/2022-12-25.md)
 - [Java Exception](./contents/2022-12/2022-12-26.md)
+- [Servlet](./contents/2022-12/2022-12-27.md)
