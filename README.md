@@ -172,3 +172,4 @@
 - [JSP](./contents/2022-12/2022-12-28.md)
 - [Tomcat](./contents/2022-12/2022-12-29.md)
 - [Single Page Application](./contents/2022-12/2022-12-30.md)
+- [2022 회고](./contents/2022-12/2022-12-31.md)
