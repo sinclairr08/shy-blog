@@ -175,3 +175,4 @@
 - [2022 회고](./contents/2022-12/2022-12-31.md)
 - [React](./contents/2023-01/2023-01-01.md)
 - [Vue.js](./contents/2023-01/2023-01-02.md)
+- [Seperate Front Back](./contents/2023-01/2023-01-03.md)
