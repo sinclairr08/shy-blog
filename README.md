@@ -178,3 +178,4 @@
 - [Seperate Front Back](./contents/2023-01/2023-01-03.md)
 - [Session Cookie](./contents/2023-01/2023-01-04.md)
 - [JWT-1](./contents/2023-01/2023-01-05.md)
+- [JWT-2](./contents/2023-01/2023-01-06.md)
