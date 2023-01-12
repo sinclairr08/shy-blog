@@ -181,3 +181,4 @@
 - [Authentication Authorization](./contents/2023-01/2023-01-09.md)
 - [Vue2 Vue3](./contents/2023-01/2023-01-10.md)
 - [Token based authentication JWT](./contents/2023-01/2023-01-11.md)
+- [OAuth](./contents/2023-01/2023-01-12.md)
