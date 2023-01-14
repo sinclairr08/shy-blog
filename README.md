@@ -183,3 +183,4 @@
 - [Token based authentication JWT](./contents/2023-01/2023-01-11.md)
 - [OAuth](./contents/2023-01/2023-01-12.md)
 - [0-1 Knapsack Problem](./contents/2023-01/2023-01-13.md)
+- [0-1 Knapsack 1D](./contents/2023-01/2023-01-14.md)
