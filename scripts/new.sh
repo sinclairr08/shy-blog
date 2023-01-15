@@ -39,7 +39,7 @@ if [ -z "$SUBJECT" ]
 then
     # 4-1. 주제가 없는 경우 Else로 설정
     SUBJECT="Else"
-elif [ -z "$(ls $SUBJECT_PATH | grep "$SUBJECT")" ]
+elif [ -z "$(ls ./subjects | grep "$SUBJECT")" ]
 then
     # 4-2. 주제가 있지만 Subject 폴더에 없는 경우 새로운 주제를 생성할지 물어봄
     echo "$SUBJECT.md is not exist. Do you want to make a new subject?"
