@@ -5,3 +5,4 @@
 - [Socket](/contents/2020-10~2022-08/2022-08-22.md)
 - [DNS](/contents/2022-12/2022-12-22.md)
 - [SSH](/contents/2022-11/2022-11-15.md)
+- [NAT](/contents/2023-01/2023-01-16.md)
