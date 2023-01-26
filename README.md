@@ -30,4 +30,8 @@
 
 ## [Snippet](/subjects/Snippet.md)
 
+## [Design_Pattern](/subjects/Design_Pattern.md)
+
+## [Experiment](/subjects/Experiment.md)
+
 ## [Else](/subjects/Else.md)
