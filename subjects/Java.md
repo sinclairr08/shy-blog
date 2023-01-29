@@ -16,3 +16,4 @@
 - [POJO](/contents/2023-01/2023-01-25.md)
 - [Stream vs For loop](/contents/2023-01/2023-01-26.md)
 - [StringBuilder](/contents/2023-01/2023-01-27.md)
+- [Abstract Class vs Interface](/contents/2023-01/2023-01-29.md)
