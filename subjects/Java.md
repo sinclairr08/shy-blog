@@ -17,3 +17,4 @@
 - [Stream vs For loop](/contents/2023-01/2023-01-26.md)
 - [StringBuilder](/contents/2023-01/2023-01-27.md)
 - [Abstract Class vs Interface](/contents/2023-01/2023-01-29.md)
+- [Lombok Careful Annotation](/contents/2023-01/2023-01-30.md)
