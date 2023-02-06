@@ -20,3 +20,4 @@
 - [Lombok Careful Annotation](/contents/2023-01/2023-01-30.md)
 - [Java String Compare](/contents/2023-02/2023-02-03.md)
 - [Java Sort Comparison](/contents/2023-02/2023-02-05.md)
+- [Reference Variable](/contents/2023-02/2023-02-06.md)
