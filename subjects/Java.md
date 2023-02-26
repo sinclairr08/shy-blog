@@ -25,3 +25,4 @@
 - [Local Class](/contents/2023-02/2023-02-15.md)
 - [Garbage Collection](/contents/2023-02/2023-02-19.md)
 - [System gc](/contents/2023-02/2023-02-20.md)
+- [Java Finalize](/contents/2023-02/2023-02-26.md)
