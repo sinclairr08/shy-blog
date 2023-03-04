@@ -7,3 +7,4 @@
 - [Vuex](/contents/2023-02/2023-02-07.md)
 - [Vue set Vue3](/contents/2023-02/2023-02-08.md)
 - [Vue Router](/contents/2023-02/2023-02-09.md)
+- [Vue Github Pages](/contents/2023-03/2023-03-04.md)
