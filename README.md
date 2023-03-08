@@ -16,8 +16,6 @@
 
 ## [Python](/subjects/Python.md)
 
-## [Computer Architecture](/subjects/Computer_Architecture.md)
-
 ## [Java](/subjects/Java.md)
 
 ## [DevOps](/subjects/Devops.md)
@@ -29,8 +27,6 @@
 ## [Frontend](/subjects/Frontend.md)
 
 ## [Snippet](/subjects/Snippet.md)
-
-## [Design_Pattern](/subjects/Design_Pattern.md)
 
 ## [Experiment](/subjects/Experiment.md)
 

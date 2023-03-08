@@ -15,3 +15,6 @@
 - [Markup Language](/contents/2023-02/2023-02-28.md)
 - [Sequential Access Random Access](/contents/2023-03/2023-03-05.md)
 - [RegEX](/contents/2023-03/2023-03-07.md)
+- [Cache](/contents/2022-10/2022-10-12.md)
+- [DMA](/contents/2022-10/2022-10-13.md)
+- [SRAM vs DRAM](/contents/2022-11/2022-11-08.md)
