@@ -14,3 +14,4 @@
 - [OCP](/contents/2023-01/2023-01-28.md)
 - [IoC](/contents/2023-03/2023-03-10.md)
 - [OOP](/contents/2023-03/2023-03-11.md)
+- [SOLID](/contents/2023-03/2023-03-12.md)
