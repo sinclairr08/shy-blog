@@ -28,3 +28,4 @@
 - [Java Finalize](/contents/2023-02/2023-02-26.md)
 - [Java Efficient Integer Read](/contents/2023-03/2023-03-06.md)
 - [NumberFormatException](/contents/2023-03/2023-03-15.md)
+- [Class class](/contents/2023-03/2023-03-20.md)
