@@ -19,3 +19,4 @@
 - [ApplicationContext](/contents/2023-03/2023-03-17.md)
 - [Singleton Pattern](/contents/2023-03/2023-03-18.md)
 - [Spring Container](/contents/2023-03/2023-03-19.md)
+- [Dependency Injection Methods](/contents/2023-03/2023-03-23.md)
