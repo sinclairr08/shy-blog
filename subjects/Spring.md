@@ -22,3 +22,4 @@
 - [Dependency Injection Methods](/contents/2023-03/2023-03-23.md)
 - [@Autowired](/contents/2023-03/2023-03-24.md)
 - [Lombok RequiredArgsConstructor](/contents/2023-03/2023-03-25.md)
+- [@Qualifier @Primary](/contents/2023-03/2023-03-26.md)
