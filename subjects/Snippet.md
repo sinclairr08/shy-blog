@@ -21,3 +21,4 @@
 - [CRLF LF](/contents/2023-03/2023-03-09.md)
 - [Unicode UTF-8](/contents/2023-03/2023-03-13.md)
 - [Framework Library](/contents/2023-03/2023-03-14.md)
+- [UUID](/contents/2023-03/2023-03-29.md)
