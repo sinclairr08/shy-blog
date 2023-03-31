@@ -30,4 +30,6 @@
 
 ## [Experiment](/subjects/Experiment.md)
 
+## [Settings](/subjects/Settings.md)
+
 ## [Else](/subjects/Else.md)
