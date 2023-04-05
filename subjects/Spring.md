@@ -28,3 +28,4 @@
 - [Scope ProxyMode](/contents/2023-03/2023-03-30.md)
 - [@CrossOrigin](/contents/2023-04/2023-04-03.md)
 - [@Controller @RestController](/contents/2023-04/2023-04-04.md)
+- [JPA](/contents/2023-04/2023-04-05.md)
