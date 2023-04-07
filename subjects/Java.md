@@ -31,3 +31,4 @@
 - [Class class](/contents/2023-03/2023-03-20.md)
 - [Sort Lambda](/contents/2023-03/2023-03-22.md)
 - [Split Error](/contents/2023-04/2023-04-02.md)
+- [Java Array Literal](/contents/2023-04/2023-04-07.md)
