@@ -1,4 +1,4 @@
-# Java_Spring
+# Java
 
 - [Java](/contents/2022-12/2022-12-18.md)
 - [Java compiler / JVM](/contents/2022-11/2022-11-29.md)

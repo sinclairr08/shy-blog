@@ -30,3 +30,4 @@
 - [@Controller @RestController](/contents/2023-04/2023-04-04.md)
 - [JPA](/contents/2023-04/2023-04-05.md)
 - [Spring Data JPA](/contents/2023-04/2023-04-06.md)
+- [View Resolver](/contents/2023-04/2023-04-08.md)
