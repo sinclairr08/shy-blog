@@ -22,3 +22,7 @@
 - [Unicode UTF-8](/contents/2023-03/2023-03-13.md)
 - [Framework Library](/contents/2023-03/2023-03-14.md)
 - [UUID](/contents/2023-03/2023-03-29.md)
+- [Python pip & virtualenv](/contents/2022-10/2022-10-14.md)
+- [Python Type Hint](/contents/2022-10/2022-10-21.md)
+- [Python mypy](/contents/2022-10/2022-10-22.md)
+- [Intellij IDEA WSL Spring](/contents/2023-03/2023-03-31.md)

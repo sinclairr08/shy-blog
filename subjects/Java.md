@@ -34,3 +34,5 @@
 - [Java Array Literal](/contents/2023-04/2023-04-07.md)
 - [Java var](/contents/2023-04/2023-04-12.md)
 - [Java BigInteger](/contents/2023-04/2023-04-14.md)
+- [Java 정수 + newLine 비교](/contents/2023-01/2023-01-31.md)
+- [Java CharAt CharArray](/contents/2023-02/2023-02-04.md)
