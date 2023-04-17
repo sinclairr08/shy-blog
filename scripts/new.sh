@@ -14,21 +14,21 @@ done
 NAME=$(echo $NAME_ | tr '_' ' ')
 
 # 3. 날짜 입력받기
-echo -n "§ Enter a post date (default: latest) > "
+echo -n "§ Enter a post date (default: today) > "
 read DATE
 
 if [ -z "$DATE" ]
 then
-    # 3-1. 만약 날짜를 입력받지 않았다면 가장 최신 포스트 다음 날로 설정
+    # 3-1. 날짜를 입력받지 않은 경우
     LAST_NAME=$(ls ./pending | grep '\;' | tail -n 1)
-    if [ -z "$LAST_NAME" ]
-    then
-        # 3-1-1. 만약 최근 포스트가 없다면 최신 날짜를 현재 날짜로 설정
-        LAST_DATE=$(date "+%Y-%m-%d")
+    if [ -z "$LAST_NAME" ] || [ "${LAST_NAME:0:10}" == "0000-00-00" ]; then
+        # 3-1-1. 만약 포스트가 없다면 오늘 날짜의 포스트를 만듦
+        DATE=$(date "+%Y-%m-%d")
     else
+        # 3-1-2. 만약 포스트가 있다면 그 다음 날의 포스트를 만듦
         LAST_DATE="${LAST_NAME:0:10}"
+        DATE=$(date -d "$LAST_DATE next day" "+%Y-%m-%d")
     fi
-    DATE=$(date -d "$LAST_DATE next day" "+%Y-%m-%d")
 fi
 
 # 4. 주제 입력받기
