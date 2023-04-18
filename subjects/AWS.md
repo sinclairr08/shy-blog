@@ -14,3 +14,5 @@
   - [AWS RDS 소개](/contents/2022-10/2022-10-30.md)
   - [AWS Aurora 소개](/contents/2022-10/2022-10-31.md)
   - [AWS Elasic IP](/contents/2022-12/2022-12-20.md)
+- 오류 대처
+  - [AWS RDS 접근 안 될 때](/contents/2023-04/2023-04-18.md)
