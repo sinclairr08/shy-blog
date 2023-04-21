@@ -17,3 +17,4 @@
 - [XMLHttpRequest](/contents/2023-04/2023-04-13.md)
 - [AJAX](/contents/2023-04/2023-04-16.md)
 - [URI URL URN](/contents/2023-04/2023-04-20.md)
+- [HTTP 기본 지식](/contents/2023-04/2023-04-21.md)
