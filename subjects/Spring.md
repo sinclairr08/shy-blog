@@ -34,3 +34,4 @@
 - [Vue Spring Gather](/contents/2023-04/2023-04-19.md)
 - [JPA @ManyToMany 지양 이유](/contents/2023-04/2023-04-23.md)
 - [@Transactional(readonly=true)](/contents/2023-04/2023-04-24.md)
+- [JPA Persistence Context](/contents/2023-04/2023-04-27.md)
