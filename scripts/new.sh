@@ -32,13 +32,13 @@ then
 fi
 
 # 4. 주제 입력받기
-echo -n "§ Enter a post subject (default: Else) > "
+echo -n "§ Enter a post subject (default: ETC) > "
 read SUBJECT
 
 if [ -z "$SUBJECT" ]
 then
-    # 4-1. 주제가 없는 경우 Else로 설정
-    SUBJECT="Else"
+    # 4-1. 주제가 없는 경우 ETC 로 설정
+    SUBJECT="ETC"
 elif [ -z "$(ls ./subjects | grep "$SUBJECT")" ]
 then
     # 4-2. 주제가 있지만 Subject 폴더에 없는 경우 새로운 주제를 생성할지 물어봄
