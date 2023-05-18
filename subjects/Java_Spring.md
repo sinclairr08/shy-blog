@@ -45,6 +45,7 @@
   - [ORM / JPA](/contents/2022-11/2022-11-20.md)
   - [JPA @ManyToMany 지양 이유](/contents/2023-04/2023-04-23.md)
   - [JPA Persistence Context](/contents/2023-04/2023-04-27.md)
+  - [JPA Fetch Join](/contents/2023-05/2023-05-18.md)
 - [OOP](/contents/2023-03/2023-03-11.md)
   - [DI](/contents/2023-03/2023-03-08.md)
   - [OCP](/contents/2023-01/2023-01-28.md)
