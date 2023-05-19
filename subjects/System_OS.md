@@ -11,6 +11,7 @@
   - [Process Scheduler](/contents/2023-04/2023-04-29.md)
   - [Interrupt](/contents/2023-05/2023-05-02.md)
   - [Thrasing](/contents/2023-05/2023-05-17.md)
+  - [PCB](/contents/2023-05/2023-05-19.md)
 - System 기타
   - [Cache](/contents/2022-10/2022-10-12.md)
   - [Scale up / Scale out](/contents/2022-11/2022-11-07.md)
