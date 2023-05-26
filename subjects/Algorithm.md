@@ -18,3 +18,4 @@
   - [Recursion](/contents/2023-02/2023-02-16.md)
   - [Tim Sort](/contents/2023-05/2023-05-03.md)
   - [Permutation Combination (Java)](/contents/2023-05/2023-05-25.md)
+  - [Exponent Implementation](/contents/2023-05/2023-05-26.md)
