@@ -16,3 +16,5 @@
   - [AWS Elasic IP](/contents/2022-12/2022-12-20.md)
 - AWS 오류 대처
   - [AWS RDS 접근 안 될 때](/contents/2023-04/2023-04-18.md)
+- AWS 비용 문제
+  - [AWS RDS 프리 티어 비용 발생 방지](/contents/2023-05/2023-05-29.md)
