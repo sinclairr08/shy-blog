@@ -32,3 +32,4 @@
   - [Intellij IDEA WSL Spring](/contents/2023-03/2023-03-31.md)
   - [Linux Commands](/contents/2023-05/2023-05-30.md)
   - [IT 용어 정리](/contents/2023-06/2023-06-01.md)
+  - [DDD](/contents/2023-06/2023-06-02.md)
