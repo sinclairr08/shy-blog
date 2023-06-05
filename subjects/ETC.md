@@ -33,3 +33,4 @@
   - [Linux Commands](/contents/2023-05/2023-05-30.md)
   - [IT 용어 정리](/contents/2023-06/2023-06-01.md)
   - [DDD](/contents/2023-06/2023-06-02.md)
+  - [MSA Message Queue](/contents/2023-06/2023-06-05.md)
