@@ -38,3 +38,4 @@
 - [Load Balancing](/contents/2023-06/2023-06-07.md)
   - [L4 L7 Load Balancer](/contents/2023-06/2023-06-10.md)
   - [DNS Load Balancing](/contents/2023-06/2023-06-11.md)
+  - [GSLB](/contents/2023-06/2023-06-12.md)
