@@ -35,3 +35,4 @@
   - [DDD](/contents/2023-06/2023-06-02.md)
   - [MSA](/contents/2023-06/2023-06-08.md)
     - [MSA Message Queue](/contents/2023-06/2023-06-05.md)
+  - [Circuit Breaker Pattern](/contents/2023-06/2023-06-16.md)
