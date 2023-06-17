@@ -41,3 +41,4 @@
   - [ANSI SQL Group By](/contents/2023-05/2023-05-24.md)
 - DB 성능 향상에 대한 고민
   - [외래키 안쓰는 이유](/contents/2023-06/2023-06-15.md)
+  - [DB Master Slave](/contents/2023-06/2023-06-17.md)
