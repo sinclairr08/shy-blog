@@ -25,6 +25,7 @@
   - [DB Connection Pool](/contents/2023-04/2023-04-30.md)
   - [Pessimistic Optimistic Lock](/contents/2023-05/2023-05-04.md)
 - DBMS / SQL
+  - [SQL 실행 순서](/contents/2023-06/2023-06-20.md)
   - [MYSQL](/contents/2022-09/2022-09-26.md)
   - [PL/SQL](/contents/2022-09/2022-09-27.md)
   - [T-SQL](/contents/2022-09/2022-09-29.md)
