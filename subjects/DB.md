@@ -4,6 +4,7 @@
   - [Database](/contents/2022-09/2022-09-28.md)
   - [DB Index-1](/contents/2020-10~2022-08/2022-07-26.md)
   - [DB Index-2](/contents/2022-10/2022-10-03.md)
+  - [Index Scan vs Table Full Scan](/contents/2023-06/2023-06-24.md)
   - [In-memory DB](/contents/2020-10~2022-08/2022-07-23.md)
   - [DB Normalization](/contents/2022-10/2022-10-16.md)
   - [Sharding](/contents/2022-10/2022-10-02.md)
