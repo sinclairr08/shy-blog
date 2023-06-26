@@ -15,6 +15,7 @@
   - [Two-phase Commit](/contents/2022-10/2022-10-18.md)
   - [DB Failure & Recovery](/contents/2022-10/2022-10-19.md)
   - [MVCC-1](/contents/2023-06/2023-06-25.md)
+  - [MVCC-2](/contents/2023-06/2023-06-26.md)
   - [Data Storage Structure](/contents/2022-10/2022-10-23.md)
   - [Join](/contents/2022-10/2022-10-15.md)
     - [NL Join](/contents/2022-10/2022-10-24.md)
