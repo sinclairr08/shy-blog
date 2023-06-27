@@ -9,6 +9,7 @@
   - [DB Normalization](/contents/2022-10/2022-10-16.md)
   - [Sharding](/contents/2022-10/2022-10-02.md)
   - [CAP theorem](/contents/2022-10/2022-10-04.md)
+    - [CAP (New)](/contents/2023-06/2023-06-27.md)
   - [ER Model](/contents/2022-10/2022-10-08.md)
   - [Transaction](/contents/2022-10/2022-10-10.md)
   - [Two-phase Locking](/contents/2022-10/2022-10-17.md)
