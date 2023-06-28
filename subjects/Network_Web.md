@@ -36,6 +36,7 @@
   - [HTTP 기본 지식](/contents/2023-04/2023-04-21.md)
   - [CORS Preflight](/contents/2023-05/2023-05-11.md)
   - [Nginx Apache 차이](/contents/2023-06/2023-06-06.md)
+  - [Multi Server Session Storage](/contents/2023-06/2023-06-28.md)
 - [Load Balancing](/contents/2023-06/2023-06-07.md)
   - [L4 L7 Load Balancer](/contents/2023-06/2023-06-10.md)
   - [DNS Load Balancing](/contents/2023-06/2023-06-11.md)
