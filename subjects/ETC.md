@@ -37,3 +37,4 @@
     - [MSA Message Queue](/contents/2023-06/2023-06-05.md)
     - [Pub Sub 모델](/contents/2023-06/2023-06-19.md)
   - [Circuit Breaker Pattern](/contents/2023-06/2023-06-16.md)
+  - [Bearer Scheme](/contents/2023-07/2023-07-01.md)
