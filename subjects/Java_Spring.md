@@ -90,3 +90,4 @@
   - [Service Repository 구분 이유](/contents/2023-06/2023-06-03.md)
   - [JDBC](/contents/2023-06/2023-06-04.md)
   - [Spring WebFlux](/contents/2023-06/2023-06-14.md)
+  - [WebSecurityConfigurerAdapter](/contents/2023-07/2023-07-02.md)
