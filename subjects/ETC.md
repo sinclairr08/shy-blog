@@ -40,3 +40,4 @@
   - [Bearer Scheme](/contents/2023-07/2023-07-01.md)
   - [Google OAuth Settings](/contents/2023-07/2023-07-03.md)
   - [Private Method Test Code](/contents/2023-07/2023-07-04.md)
+  - [런던파 고전파](/contents/2023-07/2023-07-05.md)
