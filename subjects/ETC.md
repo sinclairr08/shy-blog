@@ -42,3 +42,4 @@
   - [Private Method Test Code](/contents/2023-07/2023-07-04.md)
   - [런던파 고전파](/contents/2023-07/2023-07-05.md)
   - [인텔리제이 코딩 컨벤션 설정](/contents/2023-07/2023-07-06.md)
+  - [First Class Collection](/contents/2023-07/2023-07-07.md)
