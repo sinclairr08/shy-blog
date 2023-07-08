@@ -37,6 +37,7 @@
   - [Split Error](/contents/2023-04/2023-04-02.md)
   - [Class class](/contents/2023-03/2023-03-20.md)
   - [Java Reflection](/contents/2023-05/2023-05-05.md)
+  - [Java 리스트를 배열 대신 사용하는 이유](/contents/2023-07/2023-07-08.md)
 - [Lombok](/contents/2022-12/2022-12-06.md)
   - [Lombok RequiredArgsConstructor](/contents/2023-03/2023-03-25.md)
   - [Lombok Careful Annotation](/contents/2023-01/2023-01-30.md)
