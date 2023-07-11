@@ -44,3 +44,4 @@
   - [인텔리제이 코딩 컨벤션 설정](/contents/2023-07/2023-07-06.md)
   - [First Class Collection](/contents/2023-07/2023-07-07.md)
   - [Null Object Pattern](/contents/2023-07/2023-07-10.md)
+  - [Static Factory Method](/contents/2023-07/2023-07-11.md)
