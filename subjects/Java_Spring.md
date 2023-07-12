@@ -16,6 +16,7 @@
   - [System gc](/contents/2023-02/2023-02-20.md)
   - [Java Finalize](/contents/2023-02/2023-02-26.md)
   - [JVM Compile Process](/contents/2023-06/2023-06-23.md)
+  - [RuntimeException](/contents/2023-07/2023-07-12.md)
 - Java 문법
   - [Java String Compare](/contents/2023-02/2023-02-03.md)
   - [Java Sort Comparison](/contents/2023-02/2023-02-05.md)
