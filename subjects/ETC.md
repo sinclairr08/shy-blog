@@ -45,3 +45,4 @@
   - [First Class Collection](/contents/2023-07/2023-07-07.md)
   - [Null Object Pattern](/contents/2023-07/2023-07-10.md)
   - [Static Factory Method](/contents/2023-07/2023-07-11.md)
+  - [Mock](/contents/2023-07/2023-07-13.md)
