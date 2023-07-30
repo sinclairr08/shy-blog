@@ -1,7 +1,7 @@
 # Effective_Java
 
-- [Item 1 + Example](/contents/2023-07/2023-07-29.md)
-- [Item 2](/contents/2023-07/2023-07-18.md)
+- [Item 01 + Example](/contents/2023-07/2023-07-29.md)
+- [Item 02 + Example](/contents/2023-07/2023-07-30.md)
 - [Item 3](/contents/2023-07/2023-07-19.md)
 - [Item 4](/contents/2023-07/2023-07-20.md)
 - [Item 5](/contents/2023-07/2023-07-21.md)
