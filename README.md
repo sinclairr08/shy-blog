@@ -44,6 +44,10 @@
 
 - Effective Java 공부 (추후 주제 병합 예정)
 
+## [AI_ML](/subjects/AI_ML.md)
+
+- AI 및 머신 러닝 관련 내용
+
 ## [ETC](/subjects/ETC.md)
 
 - 기타 개발 관련 지식
