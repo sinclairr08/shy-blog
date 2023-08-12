@@ -48,6 +48,10 @@
 
 - AI 및 머신 러닝 관련 내용
 
+## [BOJ](/subjects/BOJ.md)
+
+- 백준 문제 풀이 (Python으로만 풀이 예정)
+
 ## [ETC](/subjects/ETC.md)
 
 - 기타 개발 관련 지식
