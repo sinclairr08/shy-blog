@@ -4,10 +4,11 @@
   - [Python pip & virtualenv](/contents/2022-10/2022-10-14.md)
   - [Python Type Hint](/contents/2022-10/2022-10-21.md)
   - [Python mypy](/contents/2022-10/2022-10-22.md)
-- GitHub
+- Git & GitHub
   - [Github Naming Rule](/contents/2022-11/2022-11-26.md)
   - [Github Markdown Mathematical Expression](/contents/2023-02/2023-02-25.md)
   - [Git 자주 사용하는 명령어](/contents/2023-07/2023-07-15.md)
+  - [Git Upstream Origin](/contents/2023-08/2023-08-18.md)
 - [Markup Language](/contents/2023-02/2023-02-28.md)
   - [YAML](/contents/2022-12/2022-12-10.md)
   - [JSON](/contents/2023-03/2023-03-01.md)
