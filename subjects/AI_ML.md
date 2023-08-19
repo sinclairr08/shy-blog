@@ -6,3 +6,4 @@
 - [Pandas-3](/contents/2023-08/2023-08-10.md)
 - [Pandas-4](/contents/2023-08/2023-08-11.md)
 - [Entropy](/contents/2023-08/2023-08-17.md)
+- [nDCG](/contents/2023-08/2023-08-19.md)
