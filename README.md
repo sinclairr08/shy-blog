@@ -52,6 +52,10 @@
 
 - 백준 문제 풀이 (Python으로만 풀이 예정)
 
+## [Python](/subjects/Python.md)
+
+- Python 관련 내용
+
 ## [ETC](/subjects/ETC.md)
 
 - 기타 개발 관련 지식
