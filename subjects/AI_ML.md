@@ -10,3 +10,4 @@
 - [Imputation](/contents/2023-08/2023-08-20.md)
 - [Decision Tree](/contents/2023-08/2023-08-22.md)
 - [F1 Score](/contents/2023-08/2023-08-24.md)
+- [Bagging Boosting](/contents/2023-08/2023-08-25.md)
