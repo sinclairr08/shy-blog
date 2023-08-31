@@ -56,6 +56,10 @@
 
 - Python 관련 내용
 
+## [GitHub Pages](/subjects/GitHub_Pages.md)
+
+- GitHub Pages를 도입해 블로그 전환하는 과정
+
 ## [ETC](/subjects/ETC.md)
 
 - 기타 개발 관련 지식
