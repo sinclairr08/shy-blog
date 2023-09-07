@@ -49,3 +49,4 @@
   - [Static Factory Method](/contents/2023-07/2023-07-11.md)
   - [Mock](/contents/2023-07/2023-07-13.md)
   - [Event Sourcing](/contents/2023-07/2023-07-14.md)
+  - [plt subplot](/contents/2023-09/2023-09-07.md)
