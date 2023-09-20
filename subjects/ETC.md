@@ -58,3 +58,4 @@
   - [nohup disown 차이](/contents/2023-09/2023-09-17.md)
   - [Python GC](/contents/2023-09/2023-09-18.md)
   - [Docker Hub](/contents/2023-09/2023-09-19.md)
+  - [AutoML](/contents/2023-09/2023-09-20.md)
