@@ -59,3 +59,4 @@
   - [Python GC](/contents/2023-09/2023-09-18.md)
   - [Docker Hub](/contents/2023-09/2023-09-19.md)
   - [AutoML](/contents/2023-09/2023-09-20.md)
+  - [mermaid](/contents/2023-09/2023-09-21.md)
