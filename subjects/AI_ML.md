@@ -18,3 +18,4 @@
 - [Data Leakage](/contents/2023-09/2023-09-10.md)
 - [Modin (Pandas)](/contents/2023-09/2023-09-24.md)
 - [LR Scheduler](/contents/2023-09/2023-09-25.md)
+- [Regression Metrics](/contents/2023-09/2023-09-29.md)
