@@ -4,3 +4,4 @@
 - [Python Constant Literal](/contents/2023-08/2023-08-28.md)
 - [PEP 8](/contents/2023-08/2023-08-29.md)
 - [Python 3.11 변경점](/contents/2023-08/2023-08-30.md)
+- [Python Raise](/contents/2023-09/2023-09-30.md)
