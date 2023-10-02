@@ -65,3 +65,4 @@
   - [Python AP Scheduler](/contents/2023-09/2023-09-27.md)
   - [__init__.py](/contents/2023-09/2023-09-28.md)
   - [SSH Config](/contents/2023-10/2023-10-01.md)
+  - [Unix Linux 차이](/contents/2023-10/2023-10-02.md)
