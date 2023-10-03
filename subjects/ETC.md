@@ -66,3 +66,4 @@
   - [__init__.py](/contents/2023-09/2023-09-28.md)
   - [SSH Config](/contents/2023-10/2023-10-01.md)
   - [Unix Linux 차이](/contents/2023-10/2023-10-02.md)
+  - [Mac 환경변수](/contents/2023-10/2023-10-03.md)
