@@ -21,3 +21,4 @@
 - [Regression Metrics](/contents/2023-09/2023-09-29.md)
 - [Data Sampling](/contents/2023-10/2023-10-04.md)
 - [Pandas to_numeric](/contents/2023-10/2023-10-05.md)
+- [LightGBM](/contents/2023-10/2023-10-06.md)
