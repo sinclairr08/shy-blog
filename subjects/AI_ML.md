@@ -15,7 +15,7 @@
 - [Pandas_ewm](/contents/2023-09/2023-09-06.md)
 - [Feature Engineering](/contents/2023-09/2023-09-08.md)
 - [Feature Engineering Methods](/contents/2023-09/2023-09-09.md)
-- [Data Leakage](/contents/2023-09/2023-09-10.md)
+- [Data Leakage](/contents/2023-10/2023-10-11.md)
 - [Modin (Pandas)](/contents/2023-09/2023-09-24.md)
 - [LR Scheduler](/contents/2023-09/2023-09-25.md)
 - [Regression Metrics](/contents/2023-09/2023-09-29.md)
