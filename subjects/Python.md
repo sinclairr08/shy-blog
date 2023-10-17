@@ -6,3 +6,4 @@
 - [Python 3.11 변경점](/contents/2023-08/2023-08-30.md)
 - [Python Raise](/contents/2023-09/2023-09-30.md)
 - [Python -m Option](/contents/2023-10/2023-10-16.md)
+- [Python Errno](/contents/2023-10/2023-10-17.md)
