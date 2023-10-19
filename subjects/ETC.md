@@ -71,3 +71,4 @@
   - [MASE](/contents/2023-10/2023-10-09.md)
   - [Dockerfile](/contents/2023-10/2023-10-10.md)
   - [free 명령어](/contents/2023-10/2023-10-14.md)
+  - [wget](/contents/2023-10/2023-10-19.md)
