@@ -10,3 +10,4 @@
 - [Python glob](/contents/2023-10/2023-10-18.md)
 - [tqdm](/contents/2023-10/2023-10-21.md)
 - [Dask](/contents/2023-10/2023-10-22.md)
+- [Pythonic](/contents/2023-10/2023-10-24.md)
