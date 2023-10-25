@@ -26,3 +26,4 @@
 - [좋은 피처 설계 방법](/contents/2023-10/2023-10-12.md)
 - [PySpark 소개](/contents/2023-10/2023-10-13.md)
 - [PySpark withColumn](/contents/2023-10/2023-10-15.md)
+- [Gradient Boosting](/contents/2023-10/2023-10-25.md)
