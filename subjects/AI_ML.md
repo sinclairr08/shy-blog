@@ -28,3 +28,4 @@
 - [PySpark withColumn](/contents/2023-10/2023-10-15.md)
 - [Gradient Boosting](/contents/2023-10/2023-10-25.md)
 - [AdaBoost](/contents/2023-10/2023-10-26.md)
+- [Gradient Boosting](/contents/2023-10/2023-10-27.md)
