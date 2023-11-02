@@ -78,3 +78,4 @@
   - [Hadoop](/contents/2023-10/2023-10-30.md)
   - [Pyspark join](/contents/2023-10/2023-10-31.md)
   - [Apache Zeppelin](/contents/2023-11/2023-11-01.md)
+  - [Hadoop distcp](/contents/2023-11/2023-11-02.md)
