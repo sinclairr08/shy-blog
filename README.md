@@ -58,6 +58,10 @@
 
 - Python 관련 내용
 
+## [TrobuleShooting](/subjects/TrobuleShooting.md)
+
+- TrobuleShooting
+
 ## [GitHub Pages](/subjects/GitHub_Pages.md)
 
 - GitHub Pages를 도입해 블로그 전환하는 과정
