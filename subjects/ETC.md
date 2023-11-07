@@ -81,3 +81,4 @@
   - [Hadoop distcp](/contents/2023-11/2023-11-02.md)
   - [PySpark Storage Level](/contents/2023-11/2023-11-04.md)
   - [PySpark persist](/contents/2023-11/2023-11-05.md)
+  - [Apache Hue](/contents/2023-11/2023-11-07.md)
