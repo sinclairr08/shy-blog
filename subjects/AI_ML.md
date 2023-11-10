@@ -30,3 +30,4 @@
 - [AdaBoost](/contents/2023-10/2023-10-26.md)
 - [Gradient Boosting](/contents/2023-10/2023-10-27.md)
 - [Data Distribution Shift](/contents/2023-11/2023-11-08.md)
+- [RMSSE](/contents/2023-11/2023-11-10.md)
