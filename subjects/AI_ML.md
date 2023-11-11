@@ -31,3 +31,4 @@
 - [Gradient Boosting](/contents/2023-10/2023-10-27.md)
 - [Data Distribution Shift](/contents/2023-11/2023-11-08.md)
 - [RMSSE](/contents/2023-11/2023-11-10.md)
+- [Cross Learning](/contents/2023-11/2023-11-11.md)
