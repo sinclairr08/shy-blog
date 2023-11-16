@@ -84,3 +84,4 @@
   - [Apache Hue](/contents/2023-11/2023-11-07.md)
   - [MapReduce-1](/contents/2023-11/2023-11-13.md)
   - [Linux basename](/contents/2023-11/2023-11-14.md)
+  - [Apache Ranger](/contents/2023-11/2023-11-16.md)
