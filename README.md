@@ -62,9 +62,9 @@
 
 - Spark, PySpark
 
-## [TrobuleShooting](/subjects/TrobuleShooting.md)
+## [TroubleShooting](/subjects/TroubleShooting.md)
 
-- TrobuleShooting
+- TroubleShooting
 
 ## [GitHub Pages](/subjects/GitHub_Pages.md)
 
