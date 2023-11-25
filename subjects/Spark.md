@@ -8,3 +8,4 @@
 - [PySpark Certain Column Null Count](/contents/2023-11/2023-11-22.md)
 - [PySpark Shuffle Join](/contents/2023-11/2023-11-23.md)
 - [PySpark Broadcast Join](/contents/2023-11/2023-11-24.md)
+- [PySpark When](/contents/2023-11/2023-11-25.md)
