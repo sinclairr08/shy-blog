@@ -12,3 +12,4 @@
 - [PySpark Date Diff](/contents/2023-11/2023-11-26.md)
 - [Spark Job 1](/contents/2023-11/2023-11-27.md)
 - [Spark Job 2](/contents/2023-11/2023-11-28.md)
+- [PySpark Drop Only True](/contents/2023-11/2023-11-29.md)
