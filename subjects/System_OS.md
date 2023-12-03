@@ -20,3 +20,4 @@
   - [SRAM vs DRAM](/contents/2022-11/2022-11-08.md)
   - [Virtualization](/contents/2023-04/2023-04-28.md)
   - [PID PPID](/contents/2023-09/2023-09-22.md)
+- [kthreadd](/contents/2023-12/2023-12-04.md)
