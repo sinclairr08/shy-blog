@@ -32,3 +32,4 @@
 - [Data Distribution Shift](/contents/2023-11/2023-11-08.md)
 - [RMSSE](/contents/2023-11/2023-11-10.md)
 - [Cross Learning](/contents/2023-11/2023-11-11.md)
+- [LLM](/contents/2023-12/2023-12-13.md)
