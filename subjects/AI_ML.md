@@ -34,3 +34,4 @@
 - [Cross Learning](/contents/2023-11/2023-11-11.md)
 - [LLM](/contents/2023-12/2023-12-13.md)
 - [RLHF](/contents/2023-12/2023-12-14.md)
+- [LM](/contents/2023-12/2023-12-15.md)
