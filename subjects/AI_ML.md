@@ -36,3 +36,4 @@
 - [RLHF](/contents/2023-12/2023-12-14.md)
 - [LM](/contents/2023-12/2023-12-15.md)
 - [LORA Tuning](/contents/2023-12/2023-12-16.md)
+- [Positional Encoding](/contents/2023-12/2023-12-17.md)
