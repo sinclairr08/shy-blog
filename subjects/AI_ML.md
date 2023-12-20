@@ -39,3 +39,4 @@
 - [Positional Encoding](/contents/2023-12/2023-12-17.md)
 - [Attention](/contents/2023-12/2023-12-18.md)
 - [Perplexity](/contents/2023-12/2023-12-19.md)
+- [JSD](/contents/2023-12/2023-12-21.md)
