@@ -40,3 +40,4 @@
 - [Attention](/contents/2023-12/2023-12-18.md)
 - [Perplexity](/contents/2023-12/2023-12-19.md)
 - [JSD](/contents/2023-12/2023-12-21.md)
+- [KL Divergence](/contents/2023-12/2023-12-22.md)
