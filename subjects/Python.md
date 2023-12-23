@@ -13,3 +13,4 @@
 - [Pythonic](/contents/2023-10/2023-10-24.md)
 - [IPython](/contents/2023-12/2023-12-01.md)
 - [relativedelta](/contents/2023-12/2023-12-23.md)
+- [Python Poetry](/contents/2023-12/2023-12-24.md)
