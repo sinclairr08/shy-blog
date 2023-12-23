@@ -12,3 +12,4 @@
 - [Dask](/contents/2023-10/2023-10-22.md)
 - [Pythonic](/contents/2023-10/2023-10-24.md)
 - [IPython](/contents/2023-12/2023-12-01.md)
+- [relativedelta](/contents/2023-12/2023-12-23.md)
