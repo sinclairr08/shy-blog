@@ -15,3 +15,4 @@
 - [relativedelta](/contents/2023-12/2023-12-23.md)
 - [Python Poetry](/contents/2023-12/2023-12-24.md)
 - [Fastapi](/contents/2023-12/2023-12-25.md)
+- [Python Lambda](/contents/2023-12/2023-12-26.md)
