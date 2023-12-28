@@ -17,3 +17,4 @@
 - [Fastapi](/contents/2023-12/2023-12-25.md)
 - [Python Lambda](/contents/2023-12/2023-12-26.md)
 - [Python strftime strptime](/contents/2023-12/2023-12-27.md)
+- [pickle](/contents/2023-12/2023-12-28.md)
