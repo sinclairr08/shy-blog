@@ -18,3 +18,4 @@
   - [Spring AWS 책 후기](/contents/2023-04/2023-04-11.md)
   - [Spring JPA 활용 1 강의 후기](/contents/2023-04/2023-04-25.md)
   - [Sprin MVC 1 강의 후기](/contents/2023-05/2023-05-16.md)
+- [2023 회고](/contents/2023-12/2023-12-31.md)
