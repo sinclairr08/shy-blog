@@ -1,4 +1,5 @@
 baseURL = 'https://sinclairr08.github.io/'
 languageCode = 'ko'
-title = 'Today I Learned'
+title = 'Trying to do better'
 theme = "ananke"
+version = "0.0.1"
