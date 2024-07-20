@@ -1,20 +1,22 @@
 import os
 
-def create_index_file(title, path, depth):
-    content = f"""---
+DEFAULT_INDEX_FILE = """---
 title: "{title}"
 ---
 """
-    supplemental = f"""
+ADDITIONAL_INDEX_FILE = """
 # {title}
 
 """
 
-    with open(path, 'w', encoding='utf-8') as file:
-        if depth == 1:
-            file.write(content + supplemental)
-        else:
-            file.write(content)
+
+def create_index_file(title, path, depth):
+    content = DEFAULT_INDEX_FILE.format(title=title)
+    if depth == 1:
+        content += ADDITIONAL_INDEX_FILE.format(title=title)
+
+    with open(path, "w", encoding="utf-8") as file:
+        file.write(content)
 
 
 def create_subject(subject, path, depth):
@@ -22,34 +24,35 @@ def create_subject(subject, path, depth):
         if not os.path.isfile(f"{path}/_index.md"):
             print("_index.md does not exist. I will create this!")
             create_index_file(subject, f"{path}/_index.md", depth)
-            
+
     else:
         print(f"{subject} does not exist. I will create this!")
-        os.makedirs(f"{path}", exist_ok = True)
+        os.makedirs(f"{path}", exist_ok=True)
         create_index_file(subject, f"{path}/_index.md", depth)
 
 
-def add_sub_subject(subject, sub_subject, sub_subject_ko, index_fn):
+def add_to_index_file(subject, sub_subject, sub_subject_ko, index_fn):
     line = f"- [{sub_subject_ko}](/{subject}/{sub_subject})\n"
-    
-    with open(index_fn, 'a', encoding='utf-8') as file:
+
+    with open(index_fn, "a", encoding="utf-8") as file:
         file.write(line)
 
 
+def require_subject(depth):
+    print(f"§ Enter a subject {depth} > ", end="")
+    subject = input()
+    if subject == "":
+        quit("Subject is essential")
+
+    return subject
+
 
 if __name__ == "__main__":
-    print("§ Enter a subject name > ", end = "")
-    subject = input()
-    create_subject(subject, f"content/{subject}", depth = 1)
-    
-    print("§ Enter a sub-subject name (blank: quit) > ", end = "")
-    sub_subject = input()
+    subject1 = require_subject(1)
+    create_subject(subject1, f"content/{subject1}", depth=1)
 
-    if sub_subject == "":
-        quit()
+    subject2 = require_subject(2)
+    subjectk = require_subject("alias")
 
-    print("§ Enter a sub-subject name in korean > ", end = "")
-    sub_subject_ko = input()
-
-    create_subject(sub_subject, f"content/{subject}/{sub_subject}", depth = 2)    
-    add_sub_subject(subject, sub_subject, sub_subject_ko, f"content/{subject}/_index.md")
+    create_subject(subject2, f"content/{subject1}/{subject2}", depth=2)
+    add_to_index_file(subject1, subject2, subjectk, f"content/{subject1}/_index.md")
