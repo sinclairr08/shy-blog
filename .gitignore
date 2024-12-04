@@ -6,3 +6,5 @@ LIST.md
 /resources/_gen/
 /hugo_stats.json
 .hugo_build.lock
+
+migrate_boj/
