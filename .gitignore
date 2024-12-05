@@ -8,3 +8,6 @@ LIST.md
 .hugo_build.lock
 
 migrate_boj/
+
+.idea/
+.vscode/
