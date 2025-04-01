@@ -67,7 +67,7 @@ public class _5212 {
 
         for (int r = row_min; r <= row_max; r++) {
             for (int c = col_min; c <= col_max; c++) {
-                bw.write(grid[r][c] == 1 ? "X" : ".");
+                bw.write(grid[r][c] == 1 ? "X" : "");
             }
             bw.write("\n");
         }
