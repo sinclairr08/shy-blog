@@ -1,10 +1,11 @@
 ---
 import Navigation from "../components/Navigation.astro";
-const {frontmatter} = Astro.props
+const { frontmatter } = Astro.props;
 ---
 
 <meta charset="utf-8" />
-<Navigation/>
+<Navigation />
 <h1>{frontmatter.title}</h1>
 <p>Written by {frontmatter.author}</p>
+
 <slot />
