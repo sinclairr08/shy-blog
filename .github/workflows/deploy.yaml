@@ -9,21 +9,21 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: [1] copy repo
+      - name: "[1] copy repo"
         uses: actions/checkout@v3
 
-      - name: [2] setup node
+      - name: "[2] setup node"
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
-      - name: [3] install packages
+      - name: "[3] install packages"
         run: npm install
 
-      - name: [4] build page
+      - name: "[4] build page"
         run: npm run build
 
-      - name: [5] deploy to github
+      - name: "[5] deploy to github"
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
