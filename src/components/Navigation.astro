@@ -1,6 +1,8 @@
 ---
+const homeUrl =import.meta.env.BASE_URL
+const contentUrl = `${homeUrl}/content`
 
 ---
 
-<a href="">Home</a>
-<a href="content/">Contents</a>
+<a href={homeUrl}>Home</a>
+<a href={contentUrl}>Contents</a>

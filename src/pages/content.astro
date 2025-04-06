@@ -1,9 +1,12 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+
+const homeUrl =import.meta.env.BASE_URL
+const testPageUrl = `${homeUrl}/posts/test-astro`
 ---
 
 <BaseLayout pageTitle="contents">
   <ul>
-    <li><a href="../posts/test-astro">test page</a></li>
+    <li><a href={testPageUrl}>test page</a></li>
   </ul>
 </BaseLayout>

@@ -10,5 +10,7 @@ export default defineConfig({
 
   vite: {
     plugins: [tailwindcss()]
-  }
+  },
+
+  base: "/shy-blog"
 });
